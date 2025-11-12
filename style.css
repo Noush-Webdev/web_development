@@ -336,7 +336,7 @@ font-size: 30px;
   font-family: 'El Messiri', sans-serif;
   color: transparent;
   -webkit-text-stroke:1px #fff;
-  background:url("picture/back.png");
+  background:url("public/images/back.png");
   -webkit-background-clip: text;
   background-position:0 0;
   animation: back 20s linear infinite;
@@ -452,7 +452,7 @@ display:none;
   /* color: #c6c5c5; */
    color: transparent;
     -webkit-text-stroke:1px #fff;
-    background:url("picture/back.png");
+    background:url("public/images/back.png");
     -webkit-background-clip: text;
     background-position:0 0;
     animation: back 20s linear infinite;
@@ -462,7 +462,7 @@ display:none;
  
    color: transparent;
     -webkit-text-stroke:1px #fff;
-    background:url("picture/back.png");
+    background:url("public/images/back.png");
     -webkit-background-clip: text;
     background-position:0 0;
     animation: back 20s linear infinite;
@@ -470,7 +470,7 @@ display:none;
 .bar2{
    color: transparent;
     -webkit-text-stroke:1px #fff;
-    background:url("picture/back.png");
+    background:url("public/images/back.png");
     -webkit-background-clip: text;
     background-position:0 0;
     animation: back 10s linear infinite;
@@ -478,7 +478,7 @@ display:none;
 .bar3{
    color: transparent;
     -webkit-text-stroke:1px #fff;
-    background:url("picture/back.png");
+    background:url("public/images/back.png");
     -webkit-background-clip: text;
     background-position:0 0;
     animation: back 30s linear infinite;
